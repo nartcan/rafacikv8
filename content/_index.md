@@ -26,8 +26,8 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    link_url: https://github.com/forestryio/ubuild-jekyll
-    link_text: 'See on GitHub '
+    link_url: mailto:info@rafacik.com
+    link_text: Konuşalım
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
